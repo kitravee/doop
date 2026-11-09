@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.15.0](https://github.com/kgoedecke/doop/compare/v0.14.0...v0.15.0) (2026-11-09)
+
+
+### Features
+
+* **comments:** comment on a frame from its name with the Comment tool ([#451](https://github.com/kgoedecke/doop/issues/451)) ([3b135d3](https://github.com/kgoedecke/doop/commit/3b135d3f763a1692ddf56e1132610789e8388628))
+
+
+### Bug Fixes
+
+* **canvas:** ⌥⇧-drag duplicates the picked layer, not its frame ([#454](https://github.com/kgoedecke/doop/issues/454)) ([8bc1536](https://github.com/kgoedecke/doop/commit/8bc1536c6d8b818064a869423f66c97c2935e88b))
+* **mcp:** report the running release as the MCP server version ([#446](https://github.com/kgoedecke/doop/issues/446)) ([3e67d48](https://github.com/kgoedecke/doop/commit/3e67d489158f9aa866086eefd8cef1d4d0c5ed15)), closes [#429](https://github.com/kgoedecke/doop/issues/429)
+
 ## [0.14.0](https://github.com/kgoedecke/doop/compare/v0.13.0...v0.14.0) (2026-11-08)
 
 
